@@ -10,3 +10,6 @@ HTML, CSS, JavaScript, C, C#, C++, Java and Azure
 ## :red_car: Hobbies and free time:
 My hobbies include a love for drawing, where I put my creativity on paper, as well as a strong affinity for cars, which fuels my interest in cars. Apart from the mentioned hobbies, I like to explore new knowledge in free time and I accept the opportunity to learn and explore different programming languages.
 
+## :globe_with_meridians: Colaboration
+I'm looking forward to collaborative opportunities and looking forward to work with others in the field. You can explore my projects down below on my GitHub page.
+
