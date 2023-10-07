@@ -4,6 +4,7 @@ I am Aldin Topalović, from Bosnia and Herzegovina, and I am a programmer who kn
 
 ## :man_technologist: My Skills: 
 HTML, CSS, JavaScript, C, C#, C++, Java and Azure
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,azure)](https://skillicons.dev)
 
 
